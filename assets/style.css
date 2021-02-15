@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.img-fluid {
+	border: thin solid lightgray;
+}
+
+a:link, a:visited {
+	color: white;
+}
