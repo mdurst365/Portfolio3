@@ -17,13 +17,13 @@ This is a homework assignment that was created for the OSU Coding bootcamp.
 
 Your updated portfolio should:
 
-- [ ] Display your full name, email, and phone number
+- [x] Display your full name, email, and phone number (this is in the resume.pdf file)
 
-- [ ] Have links to your GitHub profile and LinkedIn profile
+- [x] Have links to your GitHub profile and LinkedIn profile
 
-- [ ] Have a link to a downloadable PDF of your resume
+- [x] Have a link to a downloadable PDF of your resume
 
-- [ ] Display at least 3 examples of student work from either deployed projects or homeworks.
+- [x] Display at least 3 examples of student work from either deployed projects or homeworks.
 
 ### Updated GitHub Profile 
 
