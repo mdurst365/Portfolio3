@@ -31,8 +31,8 @@ Your GitHub profile must contain at least the following items:
 
 - [x] Professional profile picture
 - [x] A photo or an image other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
-- [ ] Biography
-- [ ] Your current location
-- [ ] Email address
-- [ ] Link to your deployed portfolio
+- [x] Biography
+- [x] Your current location
+- [x] Email address
+- [x] Link to your deployed portfolio
 - [x] At least 3 pinned repositories
